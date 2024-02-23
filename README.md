@@ -10,13 +10,13 @@ LICENSE: free to use. you can do what ever you want with this application.
 ## Second Header
 App HTML details
 ```html
-<p> Text paragraph</p>
+<p>Text 2</p>
 ```
 
 ## Third header
 App JS details
 ```javascript
-console.log("Hello world!");
+console.log("Hello!");
 ```
 ## Contributing
 By:
